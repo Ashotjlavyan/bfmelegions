@@ -1,0 +1,32 @@
+The Battle for Middle-earth - Legions
+
+Goals: Increased realism in battle
+       - Weaker heroes
+       - Smaller attack distance
+       - Completely redone spellbooks for each faction
+       More heroes for each faction
+       -Gondor:  Imrahil
+                 Madril
+                 Damrod
+                 Iorlas
+       -Rohan:   Gamling
+                 Grimbold
+                 Háma
+                 Elfhelm
+       -Mordor:  Witch-king (on foot/mount toggle)
+                 Khâmul
+                 Shagrat
+                 Gorbag
+                 Gothmog
+       -Isengard:Mauhur
+                 Ugluk
+                 Wulf
+
+Spellbooks overhaul
+
+Palantir powers will now be used mostly to either allow the recruiting of elite units,
+or to permanently strenghten a specific type of unit or a specific hero.
+
+
+                 
+    
