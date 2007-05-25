@@ -1,0 +1,5 @@
+Friday May 25
+- gandalf WOP range: 120 -> 80
+- gandalf WOP damage: 240 -> 50
+- gandalf health: 1200 -> 1000
+- gandalf buildcost: 6000 -> 4000
