@@ -5,3 +5,7 @@ Friday May 25
 - gandalf health: 1200 -> 1000
 - gandalf buildcost: 6000 -> 4000
 - aragorn pierce armor: 50% -> 100%
+
+Saturday May 26
+- removed intro logo movies
+- credits changed
